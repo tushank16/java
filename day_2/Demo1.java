@@ -1,8 +1,8 @@
-/* Define 3 classes A , B and C
-in all these classes create static and nonstatic variables as well as methods.
-	Now Define a class "Demo" ,in which define "main" function. From this main function try to access all the members of A ,B  and C.
-
-6) define static initializers in the above A,B and C classes and check the order of their execution. 
+/* 
+6) Define 3 classes A , B and C
+in all these classes create static and nonstatic variables as well as methods
+Now Define a class "Demo" ,in which define "main" function. From this main function try to access all the members of A ,B  and C.
+define static initializers in the above A,B and C classes and check the order of their execution. 
  */
 
 
